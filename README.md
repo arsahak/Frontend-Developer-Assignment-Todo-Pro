@@ -2,7 +2,6 @@
 
 A full-featured, production-ready todo application built with React 18, TypeScript, and Redux Toolkit. Features authentication, CRUD operations, advanced filtering, pagination, and a beautiful dark mode interface.
 
-![Todo Pro Screenshot](https://via.placeholder.com/800x400/2563eb/ffffff?text=Todo+Pro+-+Modern+Todo+App)
 
 ## 🚀 Features
 
