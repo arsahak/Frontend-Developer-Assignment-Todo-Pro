@@ -2,7 +2,6 @@
 
 A full-featured, production-ready todo application built with React 18, TypeScript, and Redux Toolkit. Features authentication, CRUD operations, advanced filtering, pagination, and a beautiful dark mode interface.
 
-
 ## 🚀 Features
 
 ### 🔐 Authentication
@@ -101,7 +100,7 @@ A full-featured, production-ready todo application built with React 18, TypeScri
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/todo-pro.git
+git clone https://github.com/arsahak/Frontend-Developer-Assignment-Todo-Pro.git
 cd todo-pro
 
 # Install dependencies
@@ -373,8 +372,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Your Name
 - **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@yourusername](https://github.com/arsahak)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/arsahak)
 
 ---
 
